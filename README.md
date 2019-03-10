@@ -1,2 +1,2 @@
 Polina Drizhinina 
-https://www.codecademy.com/users/PolinaDr/achievements
+HTML CSS Basics: https://www.codecademy.com/users/PolinaDr/achievements
