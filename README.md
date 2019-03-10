@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Polina Drizhinina 
+https://www.codecademy.com/users/PolinaDr/achievements
